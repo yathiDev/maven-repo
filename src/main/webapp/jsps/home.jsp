@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>skyDevops- Home Page</title>
+<title>Acecloudacademy- Home Page</title>
 <link href="images/vvsagarlogo.jpg" rel="icon">
 </head>
 </head>
@@ -36,7 +36,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		+91-9066660550,7026449756,9113553094
 		acecloudacademy@gmail.com
 		<br>
-		<a href="mailto:acecloudacademy@gmail.com">Mail to skydevops Technologies</a>
+		<a href="mailto:acecloudacademy@gmail.com">Mail to Acecloudacademy</a>
 	</span>
 </div>
 <hr>
