@@ -23,6 +23,7 @@ pipeline {
         stage ('Deploy_Tomcat') {
 
             steps {
+	      sh 'cd /var/lib/jenkins/workspace/CI-CD'
               sh "scp target/maven-web-application.war  ec2-user@54.83.187.138:/opt/tomcat9/webapps/"
          }
         }
